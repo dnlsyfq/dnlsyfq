@@ -4,8 +4,6 @@
 - 🌱 I’m currently learning ...Artificial Intelligence
 - 👯 I’m looking to collaborate on ...Dashboarding or Visualization for Streamlit or Plotly
 - 🤔 I’m looking for help with ...CUDA
-- 💬 Ask me about ...IDK
-- 📫 How to reach me: ...via Github !
 
 <br />
 <br />
@@ -25,7 +23,3 @@
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dnlsyfq)]
-
-
-
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dnlsyfq)
