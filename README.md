@@ -10,5 +10,6 @@
 ---
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dnlsyfq)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dnlsyfq)
 
+[![Weekly stats](https://github-readme-stats.vercel.app/api/wakatime?username=dnlsyfq)]
