@@ -12,4 +12,4 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dnlsyfq)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dnlsyfq)](https://github.com/anuraghazra/github-readme-stats)
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dnlsyfq)](https://github.com/anuraghazra/github-readme-stats)
