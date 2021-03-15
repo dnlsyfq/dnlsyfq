@@ -35,12 +35,10 @@
   <a href="https://reactjs.org/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a> 
-<!-- in your header -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.10.1/devicon.min.css">
+  <a href="https://reactjs.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="react" width="40" height="40"/>
+  </a> 
 
-<!-- in your body -->
-<i class="devicon-r-original colored"></i>
-</p>
 
 ---
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dnlsyfq)
