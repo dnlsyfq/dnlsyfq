@@ -38,21 +38,33 @@
   <a href="https://reactjs.org/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="react" width="40" height="40"/>
   </a> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="react" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
+  <img sr="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original-wordmark.svg" width="40" height="40"/>
 </p>
 
-<p align='left'>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="react" width="40" height="40"/>
-  https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg
-  https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg
-  https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg
-  https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg
-  https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg
-  https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg
-  https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg
-  https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg
-  https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg
-  https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg
-  https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original-wordmark.svg
+
+  
+
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
   https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg
   https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg
   https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg
