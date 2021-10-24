@@ -1,13 +1,13 @@
 <h3 align="center">Hi 👋, I'm Dan </h3>
 
-# About Me
+### About Me
 - 🔭 I’m currently working on ...IoT for Machine Learning and Deep Learning
 - 🌱 I’m currently learning ...Artificial Intelligence
 - 🤔 I’m looking for help with ...CUDA
 ---
-## My Stack:
+### My Stack:
 
-### Web Development: <
+### Web Development:
 <p align="left"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
@@ -52,10 +52,7 @@
   
 ---
 [![Linkedin: dnlsyfq](https://img.shields.io/badge/-danialjalaluddin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danialjalaluddin/)](https://www.linkedin.com/in/danialjalaluddin/)
-  
-
-
 ---
-![Dan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dnlsyfq)
+![Dan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dnlsyfq&langs_count=10)
 
 ![Dan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dnlsyfq&show_icons=true&count_private=true&theme=default)
