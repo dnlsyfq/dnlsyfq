@@ -1,19 +1,13 @@
-<h1 align="center">Hi 👋, I'm Dan </h1>
-<h3 align="center">Freelance and Data Enthuist from Malaysia.</h3>
+<h3 align="center">Hi 👋, I'm Dan </h3>
 
 # About Me
 - 🔭 I’m currently working on ...IoT for Machine Learning and Deep Learning
 - 🌱 I’m currently learning ...Artificial Intelligence
 - 🤔 I’m looking for help with ...CUDA
-
-<br />
-<br />
-
 ---
+## My Stack:
 
-<h2 align="left">Languages and Tools:</h2>
-
-<h3 align="left">Web Development: </h3>
+### Web Development: <
 <p align="left"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
@@ -62,6 +56,6 @@
 
 
 ---
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dnlsyfq)
+![Dan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dnlsyfq)
 
-![Dan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dnlsyfq&show_icons=true)
+![Dan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dnlsyfq&show_icons=true&count_private=true&theme=default)
