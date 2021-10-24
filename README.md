@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 - 🔭 I’m currently working on ...IoT for Machine Learning and Deep Learning
 - 🌱 I’m currently learning ...Artificial Intelligence
@@ -54,7 +54,8 @@
   
  
   
-  
+---
+[![Linkedin: danialjalaluddin](https://img.shields.io/badge/-danialjalaluddin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danialjalaluddin/)](https://www.linkedin.com/in/danialjalaluddin/)
   
 
 
