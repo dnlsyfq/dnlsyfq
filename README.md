@@ -1,5 +1,9 @@
-# Hi there 👋
+ 👋
 
+<h1 align="center">Hi 👋, I'm Dan </h1>
+<h3 align="center">Freelance and Data Enthuist from Malaysia.</h3>
+
+# About Me
 - 🔭 I’m currently working on ...IoT for Machine Learning and Deep Learning
 - 🌱 I’m currently learning ...Artificial Intelligence
 - 🤔 I’m looking for help with ...CUDA
