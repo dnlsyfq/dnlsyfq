@@ -1,6 +1,7 @@
 <h3 align="center">Hi 👋, I'm Dan </h3>
 
 ### About Me
+- 📊 I'm an Analyst & ✈ Aerospace Engineer 
 - 🔭 I’m currently working on ...IoT for Machine Learning and Deep Learning
 - 🌱 I’m currently learning ...Artificial Intelligence
 - 🤔 I’m looking for help with ...CUDA
