@@ -55,7 +55,7 @@
  
   
 ---
-[![Linkedin: dnlsyfq](https://img.shields.io/badge/-danialjalaluddin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danialjalaluddin/)](https://www.linkedin.com/in/danialjalaluddin/)
+[![Linkedin: dnlsyfq](https://img.shields.io/badge/-dnlsyfq-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danialjalaluddin/)](https://www.linkedin.com/in/danialjalaluddin/)
   
 
 
