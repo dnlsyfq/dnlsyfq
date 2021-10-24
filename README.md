@@ -1,5 +1,3 @@
- 👋
-
 <h1 align="center">Hi 👋, I'm Dan </h1>
 <h3 align="center">Freelance and Data Enthuist from Malaysia.</h3>
 
