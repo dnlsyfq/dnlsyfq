@@ -54,6 +54,7 @@
 ---
 [![Linkedin: dnlsyfq](https://img.shields.io/badge/-danialjalaluddin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danialjalaluddin/)](https://www.linkedin.com/in/danialjalaluddin/)
 ---
-![Dan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dnlsyfq&langs_count=5)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dnlsyfq)](https://github.com/dnlsyfq/github-readme-stats)
 
 ![Dan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dnlsyfq&show_icons=true&count_private=true&theme=default)
