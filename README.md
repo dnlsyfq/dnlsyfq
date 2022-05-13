@@ -4,15 +4,14 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; BS(CS) from FAST - NUCES
-- 📊 I'm aworking as an Analyst & ✈ Aerospace Engineer 
-- 💼 &nbsp; Working as a Software Engineer.
-- 👨‍💻 &nbsp; Checkout my work at https://mahmad.me
-- 📝 &nbsp; I regularly write articles on [my blog](https://mahmad.me/blog) and [Dev.to](https://dev.to/m_ahmad)
+- 📊 &nbsp; Working as an Analyst & ✈ Aerospace Engineer 
+- 👨‍💻 &nbsp; Checkout my work at 
+- 📝 &nbsp; I regularly write articles 
 - 🌱 &nbsp; Learning more about Devops, Front-end and Back-end technologies.
-- 🔭 I’m currently working on ...IoT for Machine Learning and Deep Learning
-- 🌱 I’m currently learning ...Artificial Intelligence
-- 🤔 I’m looking for help with ...CUDA
-- 📫 &nbsp; How to reach me: muhammad.ahmad8043@gmail.com
+- 🔭 &nbsp; I’m currently working on ...IoT for Machine Learning and Deep Learning
+- 🌱 &nbsp; I’m currently learning ...Artificial Intelligence
+- 🤔 &nbsp; I’m looking for help with ...CUDA
+- 📫 &nbsp; How to reach me: 
 
 <h3>🛠 Tech Stack</h3>
 
