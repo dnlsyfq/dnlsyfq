@@ -1,16 +1,14 @@
-<h3> Hey there! I'm Dan @ Danial 👋.</h3>
+<h3> Hey there! I'm Danial J 👋.</h3>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; BS(CS) from FAST - NUCES
-- 📊 &nbsp; Working as an Analyst & ✈ Aerospace Engineer 
-- 👨‍💻 &nbsp; Checkout my work at 
+- 🤔 &nbsp; Exploring new technologies and developing web applications and quick hacks.
+- 🎓 &nbsp; BS Aircraft Engineering Technology
+- 💼 &nbsp; Working as an 📊 Analyst , 💻 Developer  & ✈ Aerospace Engineer 
 - 📝 &nbsp; I regularly write articles 
-- 🌱 &nbsp; Learning more about Devops, Front-end and Back-end technologies.
+- 🌱 &nbsp; Learning more about Devops, AI, ML , Front-end and Back-end technologies.
 - 🔭 &nbsp; I’m currently working on ...IoT for Machine Learning and Deep Learning
-- 🌱 &nbsp; I’m currently learning ...Artificial Intelligence
-- 🤔 &nbsp; I’m looking for help with ...CUDA
+- 😥 &nbsp; I’m looking for help with ...CUDA
 - 📫 &nbsp; How to reach me: 
 
 <h3>🛠 Tech Stack</h3>
