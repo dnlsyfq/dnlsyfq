@@ -1,3 +1,26 @@
+<h2> Hey there! I'm Ahmad.</h2>
+
+<h3> 👨🏻‍💻 About Me </h3>
+
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🎓 &nbsp; BS(CS) from FAST - NUCES
+- 💼 &nbsp; Working as a Software Engineer.
+- 👨‍💻 &nbsp; Checkout my work at https://mahmad.me
+- 📝 &nbsp; I regularly write articles on [my blog](https://mahmad.me/blog) and [Dev.to](https://dev.to/m_ahmad)
+- 🌱 &nbsp; Learning more about Devops, Front-end and Back-end technologies.
+- 📫 &nbsp; How to reach me: muhammad.ahmad8043@gmail.com
+
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; Ruby | Python | C++ | Java
+- 🌐 &nbsp; ROR | ReactJS | Nextjs | JavaScript | TypeScript |  | Redux | Tailwindcss | Bootstrap | ChakraUi
+- 🛢 &nbsp; MySQL | Postgresql
+- 🖥 &nbsp; Figma | InDesign
+
+<br/>
+
+
+
 <h3 align="center">Hi 👋 </h3>
 
 ### About Me
