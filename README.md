@@ -1,4 +1,4 @@
-<h3> Hey there! I'm Danial J 👋.</h3>
+<h3> Hey there! I'm Dan 👋.</h3>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
