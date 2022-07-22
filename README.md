@@ -24,7 +24,7 @@
 
 <h3> 🤝🏻 Connect with Me </h3>
 
-![Linkedin]](https://www.linkedin.com/in/danialjalaluddin/)
+![Linkedin](https://www.linkedin.com/in/danialjalaluddin/)
 
 ---
 ![Dan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dnlsyfq&show_icons=true&count_private=true&theme=default)
