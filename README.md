@@ -13,7 +13,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Javascript | Python | R | Flutter | Swift | PHP
-- 🌐 &nbsp; ROR | ReactJS | D3.js | Plotly.js |
+- 🌐 &nbsp; Dash| ReactJS | D3.js | Plotly.js |
 - 🛢 &nbsp; MySQL | Postgresql | ElasticSearch |
 
 
