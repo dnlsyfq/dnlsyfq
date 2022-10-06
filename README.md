@@ -69,4 +69,4 @@ I'm Danial 👋.! I'm a ML/BI Developer , Data Engineer and Data Scientist focus
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dnlsyfq)
 
-<a href="http://www.github.com/dnlsyfq"><img src="https://activity-graph.herokuapp.com/graph?username=dnlsyfq&bg_color=e5e4e2&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/dnlsyfq"><img src="https://activity-graph.herokuapp.com/graph?username=dnlsyfq&bg_color=e5e4e2&color=000000&line=0891b2&point=000000&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
