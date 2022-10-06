@@ -1,6 +1,7 @@
 <center><h3> Hey there! </h3></center>
 
-I'm Danial 👋.! I'm a ML/BI Developer , Data Engineer and Data Scientist focusing on Fullstack ML Ops  Development, Frontend & BI Development, Statistical Analysis and Machine Learning .
+I'm Danial 👋! 
+I'm actively focusing on Fullstack ML Ops , Frontend & BI Development, Statistical Analysis and Machine Learning .
 
 <h3> 👨🏻‍💻 About Me </h3>
 
@@ -17,11 +18,6 @@ I'm Danial 👋.! I'm a ML/BI Developer , Data Engineer and Data Scientist focus
 ---
 
 <h3>🛠 Tech Stack</h3>
-
-- 💻 &nbsp; Javascript | Python | R | Flutter | Swift | PHP
-- 🌐 &nbsp; Dash| ReactJS | D3.js | Plotly.js |
-- 🛢 &nbsp; MySQL | Postgresql | ElasticSearch |
-
 
 <h3>Core</h3>
 <p align="left">
