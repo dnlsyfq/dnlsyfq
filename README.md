@@ -1,6 +1,6 @@
-<center><h3> Hey there! I'm Danial </h3></center>
+<center><h3> Hey there! </h3></center>
 
-Hi, I'm Danial 👋.! I'm a ML/BI Developer , Data Engineer and Data Scientist focusing on Fullstack ML Ops  Development, Frontend & BI Development, Statistical Analysis and Machine Learning .
+I'm Danial 👋.! I'm a ML/BI Developer , Data Engineer and Data Scientist focusing on Fullstack ML Ops  Development, Frontend & BI Development, Statistical Analysis and Machine Learning .
 
 <h3> 👨🏻‍💻 About Me </h3>
 
