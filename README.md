@@ -12,9 +12,7 @@
 
 
 
-
-
-
+---
 
 <h3>🛠 Tech Stack</h3>
 
@@ -25,3 +23,5 @@
 
 ---
 ![Dan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dnlsyfq&show_icons=true&count_private=true&theme=default)
+
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dnlsyfq&theme=vision-friendly-dark)](https://git.io/streak-stats)
