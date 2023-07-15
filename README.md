@@ -6,7 +6,6 @@ I'm actively focusing on Fullstack ML Ops , Frontend & BI Development, Statistic
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies stack and loved to develop ml and web applications.
-- 🎓 &nbsp;  Aircraft Engineering Technology undergraduates and Materials Science postgraduates
 - 💼 &nbsp; Working as an 📊 Business Analyst , 💻 Data Engineer/ Data Scientist  & ✈ Aerospace Engineer 
 - 📝 &nbsp; I regularly write articles
 - 🔭 &nbsp; I’m currently working on ...IoT for Machine Learning and Deep Learning
