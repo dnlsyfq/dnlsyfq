@@ -65,4 +65,3 @@ I'm actively focusing on Fullstack ML Ops , Frontend & BI Development, Statistic
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dnlsyfq)
 
-<a href="http://www.github.com/dnlsyfq"><img src="https://activity-graph.herokuapp.com/graph?username=dnlsyfq&bg_color=ffffff&color=000000&line=FF5F1F&point=000000&area_color=ffffff&area=false&hide_border=false&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
