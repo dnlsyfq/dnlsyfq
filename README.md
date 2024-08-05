@@ -10,7 +10,6 @@ I'm actively focusing on Fullstack ML Ops , Frontend & BI Development, Statistic
 - 📝 &nbsp; I regularly write articles
 - 🔭 &nbsp; I’m currently working on ...IoT for Machine Learning and Deep Learning
 - 😥 &nbsp; I’m looking for help with ...CUDA
-- 🤝🏻 &nbsp; Connect with Me: [Linkedin](https://www.linkedin.com/in/danialjalaluddin/)
 
 
 
